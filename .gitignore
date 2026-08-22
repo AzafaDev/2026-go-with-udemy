@@ -1,0 +1,11 @@
+# Go
+*.exe
+*.test
+*.out
+bin/
+
+# Env
+.env
+
+# Latihan DSA (lokal, gak di-track)
+dsa/
