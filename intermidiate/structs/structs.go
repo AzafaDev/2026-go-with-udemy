@@ -1,4 +1,4 @@
-package intermidiate
+package main
 
 import "fmt"
 
